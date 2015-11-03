@@ -1,0 +1,41 @@
+/*core modification*/
+.btn-lg{
+	height: 3em;
+}
+.bg-dark {
+	background-color: #E2E2E2;
+}
+.white{
+	color: white !important;
+}
+.list-group-item{
+	overflow: overlay;
+}
+.s{
+	text-decoration: line-through;
+}
+.pointer{
+	cursor: pointer;
+}
+
+.smooth{
+	transition: 1s all ease !important;
+}
+/*/core modification*/
+/*global helpers*/
+.mid{
+	display: block;
+	margin: auto;
+}
+	/*element type helper*/
+	.i-l{
+		display: inline;
+	}
+	.i-l>li{
+		display: inline;
+	}
+	.block{
+		display: block;
+	}
+	/*/element type helper*/
+/*/global helpers*/

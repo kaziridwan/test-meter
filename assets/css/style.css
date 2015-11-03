@@ -1,0 +1,14 @@
+/*global styling*/
+body { 
+	position: relative ; 
+	padding-top: 70px !important;
+}
+/*tab-view*/
+@media(min-width: 760px){
+	.footer{
+		position: absolute;
+		width: 100%;
+		bottom: 0px;
+	}
+}
+/*/tab-view*/
